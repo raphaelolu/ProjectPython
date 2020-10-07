@@ -1,0 +1,36 @@
+{
+  "isIngameInplay": true,
+  "gameRound": 2,
+  "players": [
+    {
+      "round" :[{
+        "firstThrow": 3,
+        "secondThrow": 5,
+        "strike": false,
+        "spareThrown": false,
+        "totalScore": 8
+      },
+       {
+        "firstThrow": 3,
+        "secondThrow": 5,
+        "strike": false,
+        "spareThrown": false,
+        "totalScore": 8
+      }],
+      "name": "james",
+      "Turn": true
+    },
+    {
+      "roundOne": {
+        "firstThrow": 3,
+        "secondThrow": 5,
+        "strike": false,
+        "spareThrown": false,
+        "totalScore": 8
+      },
+      "name": "james",
+      "Turn": true
+
+    }
+  ]
+}
